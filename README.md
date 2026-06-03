@@ -1,2 +1,2 @@
-# Car-Parking-Sensor
-Designed to help drivers park safely by detecting nearby obstacles
+Car Parking Assistance System | AVR Embedded Systems Project
+Developed an intelligent parking assistance system using the ATmega32 microcontroller and an ultrasonic sensor to accurately measure the distance to nearby obstacles. The system displays real-time distance readings on an LCD screen and utilizes LED indicators and a buzzer to provide progressive visual and audible warnings, enhancing driver awareness and improving parking safety. Demonstrates skills in sensor interfacing, embedded programming, real-time monitoring, and hardware integration.
